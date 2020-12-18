@@ -256,9 +256,7 @@ Phone Number|"+1 ([000]) [000] [00] [00]"
 Credit Card|"[0000] [0000] [0000] [0000]"
 Price|"$[999990],[99]"
 
-<img src="maskedphone.png" width="30%">
-<img src="maskedcredit.png" width="30%">
-<img src="maskedprice.png" width="30%">
+<img src="maskedphone.png" width="30%"> <img src="maskedcredit.png" width="30%"> <img src="maskedprice.png" width="30%">
 
 ---
 ## Troubleshooting
