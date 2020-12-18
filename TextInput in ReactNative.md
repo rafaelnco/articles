@@ -23,7 +23,7 @@ Directly from the React Native Core Component library this may be one of the mos
 
 Although the first examples are basic snippets focusing on TextInput instantiation, our final example covers the Formulary use case and includes further styling and layout of components. Starting off with simple snippets to exemplify TextInput instantiation, this study examines the component in a common Formulary scenario so that we are able to turn a configuration like this:
 
-```json
+```js
   const Form = [
     {
       slug: 'textinput1',
